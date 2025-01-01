@@ -7,21 +7,24 @@
         "lb": 1,
         "linethroughrate": 2.00,
         "originalrate": 1.60,
-        "discount": 20
+        "discount": 20,
+        "count":1
     },
     {
         "id": 2,
         "image": "babyspinach.jpg",
         "name": "Baby Spinach",
         "lb": 2,
-        "originalrate": 0.60
+        "originalrate": 0.60,
+         "count":1
     },
     {
         "id": 3,
         "image": "blueberries.jpg",
         "name": "Blueberries",
         "lb": 1,
-        "originalrate": 3.00
+        "originalrate": 3.00,
+         "count":1
     },
     {
         "id": 4,
@@ -30,7 +33,8 @@
         "lb": 1,
         "linethroughrate": 5.00,
         "originalrate": 3.00,
-        "discount": 20
+        "discount": 20,
+         "count":1
     },
     {
         "id": 5,
@@ -39,7 +43,8 @@
         "lb": 1,
         "linethroughrate": 6.00,
         "originalrate": 5.00,
-        "discount": 17
+        "discount": 17,
+         "count":1
     },
     {
         "id": 6,
@@ -48,7 +53,8 @@
         "lb": 1,
         "linethroughrate": 3.00,
         "originalrate": 2.50,
-        "discount": 17
+        "discount": 17,
+         "count":1
     },
     {
         "id": 7,
@@ -57,14 +63,16 @@
         "lb": 1,
         "linethroughrate": 5.00,
         "originalrate": 4.00,
-        "discount": 20
+        "discount": 20,
+         "count":1
     },
     {
         "id": 8,
         "image": "cucumber.jpg",
         "name": "Cucumber",
         "lb": 2.5,
-        "originalrate": 2.50
+        "originalrate": 2.50,
+         "count":1
     }
 ]
 }
